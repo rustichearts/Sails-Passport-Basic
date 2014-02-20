@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ########################
 # sails
 ########################
@@ -10,6 +11,8 @@
 ########################
 # node.js / npm
 ########################
+=======
+>>>>>>> 5476999e50e9ccb6402f46319460c3faa3603382
 lib-cov
 *.seed
 *.log
@@ -23,6 +26,7 @@ pids
 logs
 results
 
+<<<<<<< HEAD
 node_modules
 
 npm-debug.log
@@ -43,3 +47,7 @@ nbproject
 # local config
 ########################
 config/local.js
+=======
+npm-debug.log
+node_modules
+>>>>>>> 5476999e50e9ccb6402f46319460c3faa3603382
