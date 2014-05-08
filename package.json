@@ -19,7 +19,7 @@
     "debug": "node debug app.js"
   },
   "main": "app.js",
-  "repository": "",
-  "author": "",
-  "license": ""
+  "repository": "git@github.com:rustichearts/Sails-Passport-Basic.git",
+  "author": "kamiyam",
+  "license": "MIT"
 }
