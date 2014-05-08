@@ -1,7 +1,7 @@
 {
   "name": "passport-basic",
   "private": true,
-  "version": "0.0.1",
+  "version": "0.10.0-rc5",
   "description": "a Sails application",
   "keywords": [],
   "dependencies": {
@@ -34,7 +34,7 @@
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/kamiya/passport-basic.git"
+    "url": "git@github.com:rustichearts/Sails-Passport-Basic.git"
   },
   "author": "kamiya",
   "license": "",
