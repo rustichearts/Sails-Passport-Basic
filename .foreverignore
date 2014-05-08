@@ -1,2 +1,10 @@
 **/.idea/**
 **/.tmp/**
+
+assets/**
+views/**/*.ejs
+
+
+.git/**
+
+.bower_components/**
